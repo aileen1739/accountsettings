@@ -1,0 +1,9 @@
+
+body{
+    background-image: url('./img/csudh_LSU.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    font-family: 'Blinker';
+}

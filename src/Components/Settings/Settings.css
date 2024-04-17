@@ -1,0 +1,56 @@
+main{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 350px;
+    height: 500px;
+    padding: 11px;
+    /*margin: auto;*/
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.box{
+    height: 400px;
+    background-color: rgb(180, 32, 62);
+    margin: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+.material-symbols-outlined {
+    color: black;
+    font-size: 80px;
+    margin-bottom: 10px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 350,
+  'GRAD' 0,
+  'opsz' 50
+}
+
+.material-symbols-outlined:hover{
+    color: white;
+}
+.container ul{
+    list-style-type: none;
+    padding:0;
+}
+
+.container li{
+    margin-bottom: 10px;
+}
+.container a:hover{
+    text-decoration: solid;
+    color: black;
+}
+.container h1{
+    color: white;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
